@@ -1,17 +1,18 @@
 # US Internships
 
-Open internships and co-ops at US employers: 83 internships at 34 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=internships).** Last updated 2026-11-08.
+Open internships and co-ops at US employers: 84 internships at 35 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=internships).** Last updated 2026-11-08.
 
-**By category:** Software Engineering (18) · Data Science / AI / ML (7) · Quant / Finance (2) · Hardware Engineering (14) · Other (42)
+**By category:** Software Engineering (19) · Data Science / AI / ML (7) · Quant / Finance (2) · Hardware Engineering (14) · Other (42)
 
-**How it is built.** Warmada reads the public job boards of companies on Greenhouse, Ashby and Lever every day and keeps the postings that name a US location. The category comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
+**How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. The category comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (18)
+## Software Engineering (19)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| parspec.io | Applied AI Engineer Intern | Hybrid - San Mateo, California | Nov 6 | [Apply](https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504) · [Find the hiring manager](https://warmada.com/job/parspec-io-applied-ai-engineer-intern-4d465788-c0da-41f5-ad27-cef7623b9415?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Astranis](https://warmada.com/companies/astranis?utm_source=github&utm_medium=list&utm_campaign=internships) | Embedded Software Developer, Network/Payload Intern (Winter 2027) | San Francisco | Nov 6 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704571006) · [Find the hiring manager](https://warmada.com/job/astranis-embedded-software-developer-network-payload-intern-winter-2027-fc679dbf-b4b2-4c62-a273-e2ca26891a73?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Notion](https://warmada.com/companies/notion?utm_source=github&utm_medium=list&utm_campaign=internships) | Software Engineering Intern, Frontend (Summer 2027) | New York, New York | Nov 6 | [Apply](https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413) · [Find the hiring manager](https://warmada.com/job/notion-software-engineering-intern-frontend-summer-2027-44cf9738-81e5-4f72-bde5-19b79428fcd8?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Notion](https://warmada.com/companies/notion?utm_source=github&utm_medium=list&utm_campaign=internships) | Software Engineering Intern, iOS (Summer 2027) | New York, New York | Nov 6 | [Apply](https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947) · [Find the hiring manager](https://warmada.com/job/notion-software-engineering-intern-ios-summer-2027-f51291d7-39fc-4f88-88ea-88ad248e047b?utm_source=github&utm_medium=list&utm_campaign=internships) |
