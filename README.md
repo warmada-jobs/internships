@@ -1,17 +1,18 @@
 # US Internships
 
-Open internships and co-ops at US employers: 102 internships at 37 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=internships).** Last updated 2026-11-14.
+Open internships and co-ops at US employers: 103 internships at 38 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=internships).** Last updated 2026-11-15.
 
-**By category:** Software Engineering (13) · Data Science / AI / ML (6) · Product Management (1) · Quant / Finance (4) · Hardware Engineering (13) · Other (65)
+**By category:** Software Engineering (14) · Data Science / AI / ML (6) · Product Management (1) · Quant / Finance (4) · Hardware Engineering (13) · Other (65)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. The category comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (13)
+## Software Engineering (14)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Eight Sleep](https://warmada.com/companies/eight-sleep?utm_source=github&utm_medium=list&utm_campaign=internships) | Short-Term Firmware Intern | San Francisco | Nov 14 | [Apply](https://jobs.ashbyhq.com/eightsleep/8da94996-2820-4964-b2b8-0ed151dd4f1b) · [Find the hiring manager](https://warmada.com/job/eight-sleep-short-term-firmware-intern-f979be1d-52a0-4ca5-b591-baabe971fa96?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Astranis](https://warmada.com/companies/astranis?utm_source=github&utm_medium=list&utm_campaign=internships) | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco | Nov 11 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) · [Find the hiring manager](https://warmada.com/job/astranis-embedded-software-developer-network-payload-intern-summer-2027-79774c16-e31e-4793-9d9d-900294350a01?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Skydio](https://warmada.com/companies/skydio?utm_source=github&utm_medium=list&utm_campaign=internships) | Middleware Software Engineer Intern - Summer 2027 | San Mateo, California, United States | Nov 10 | [Apply](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03) · [Find the hiring manager](https://warmada.com/job/skydio-middleware-software-engineer-intern-summer-2027-3c8b952d-aa0b-4aa3-8ead-82050dfdd57b?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Skydio](https://warmada.com/companies/skydio?utm_source=github&utm_medium=list&utm_campaign=internships) | Hardware In Loop (HIL) Software Engineer Intern - Winter 2027 | San Mateo, California, United States | Nov 10 | [Apply](https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded) · [Find the hiring manager](https://warmada.com/job/skydio-hardware-in-loop-hil-software-engineer-intern-winter-2027-4284080e-06b8-41bc-bccc-d9324c739535?utm_source=github&utm_medium=list&utm_campaign=internships) |
