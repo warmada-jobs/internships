@@ -1,8 +1,8 @@
 # US Internships
 
-Open internships and co-ops at US employers: 107 internships at 43 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=internships).** Last updated 2026-11-21.
+Open internships and co-ops at US employers: 106 internships at 42 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=internships).** Last updated 2026-11-22.
 
-**By category:** Software Engineering (13) · Data Science / AI / ML (4) · Product Management (1) · Quant / Finance (10) · Hardware Engineering (13) · Other (66)
+**By category:** Software Engineering (13) · Data Science / AI / ML (4) · Product Management (1) · Quant / Finance (10) · Hardware Engineering (12) · Other (66)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. The category comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -56,7 +56,7 @@ A bad listing? Email hello@warmada.com with the link.
 | Tower Research Capital | Finance Intern | New York | Nov 10 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8372658) · [Find the hiring manager](https://warmada.com/job/tower-research-capital-finance-intern-3ee54b75-b349-49e8-bf2b-64204cc285d0?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=internships) | Intern: Accounting | Columbia, MO (Headquarters) | Nov 10 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8371934) · [Find the hiring manager](https://warmada.com/job/equipmentshare-intern-accounting-fc35e254-287e-4286-81d3-8e4a7bdf0762?utm_source=github&utm_medium=list&utm_campaign=internships) |
 
-## Hardware Engineering (13)
+## Hardware Engineering (12)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -68,7 +68,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [DLR Group](https://warmada.com/companies/dlr-group?utm_source=github&utm_medium=list&utm_campaign=internships) | Electrical Engineering Intern \| Summer 2027 | Chicago, Illinois, United States | Nov 18 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5486589008) · [Find the hiring manager](https://warmada.com/job/dlr-group-electrical-engineering-intern-summer-2027-e3e9a311-c88d-4af8-bbe2-72765e675b15?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Galaxy](https://warmada.com/companies/galaxy?utm_source=github&utm_medium=list&utm_campaign=internships) | 2027 Environmental Health &amp; Safety Engineer Intern-Afton Texas | Afton, Texas | Nov 16 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6262681004) · [Find the hiring manager](https://warmada.com/job/galaxy-2027-environmental-health-and-safety-engineer-intern-afton-texas-8dbcbb07-53cb-4063-9955-fc99e55a2130?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Samsara](https://warmada.com/companies/samsara?utm_source=github&utm_medium=list&utm_campaign=internships) | Product Design (Mechanical Engineering) Co-Op | San Francisco - SF9 | Nov 15 | [Apply](https://www.samsara.com/company/careers/roles/8214590?gh_jid=8214590) · [Find the hiring manager](https://warmada.com/job/samsara-product-design-mechanical-engineering-co-op-b8c523fd-f77f-4edc-b072-1f0b930a4ba5?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| Tempo | R&amp;D Test Engineering Intern (SoFuel) | San Diego | Nov 14 | [Apply](https://tempoenergy.com/careers/open-roles/?gh_jid=4507804009) · [Find the hiring manager](https://warmada.com/job/tempo-r-and-d-test-engineering-intern-sofuel-03a6a0c3-a473-497e-8de5-27e55b098055?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Zoox](https://warmada.com/companies/zoox?utm_source=github&utm_medium=list&utm_campaign=internships) | Feature Integration Intern \[Summer 2027\] | Foster City, CA | Nov 14 | [Apply](https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f) · [Find the hiring manager](https://warmada.com/job/zoox-feature-integration-intern-summer-2027-232e1ab0-a8a1-4d33-97b8-0c5da6319be2?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Zoox](https://warmada.com/companies/zoox?utm_source=github&utm_medium=list&utm_campaign=internships) | Industrial Design Intern \[Summer 2027\] | Foster City, CA | Nov 13 | [Apply](https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd) · [Find the hiring manager](https://warmada.com/job/zoox-industrial-design-intern-summer-2027-e8270a25-c533-49f2-804a-ca3c2563c240?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Zoox](https://warmada.com/companies/zoox?utm_source=github&utm_medium=list&utm_campaign=internships) | Systems &amp; Safety Engineering Intern \[Summer 2027\] | Foster City, CA | Nov 12 | [Apply](https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f) · [Find the hiring manager](https://warmada.com/job/zoox-systems-and-safety-engineering-intern-summer-2027-4bbaa15b-d8ad-48ad-8c1b-86c75a966611?utm_source=github&utm_medium=list&utm_campaign=internships) |
