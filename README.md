@@ -1,8 +1,8 @@
 # US Internships
 
-Open internships and co-ops at US employers: 102 internships at 39 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=internships).** Last updated 2026-11-27.
+Open internships and co-ops at US employers: 99 internships at 37 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=internships).** Last updated 2026-11-28.
 
-**By category:** Software Engineering (22) · Data Science / AI / ML (3) · Quant / Finance (8) · Hardware Engineering (14) · Other (55)
+**By category:** Software Engineering (22) · Data Science / AI / ML (3) · Quant / Finance (7) · Hardware Engineering (13) · Other (54)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. The category comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -43,7 +43,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [SambaNova](https://warmada.com/companies/sambanova?utm_source=github&utm_medium=list&utm_campaign=internships) | Machine Learning Engineer Intern | Austin, Texas, United States; San Jose, California, United States | Nov 25 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004) · [Find the hiring manager](https://warmada.com/job/sambanova-machine-learning-engineer-intern-b8c21e8d-5015-4e84-aa92-d603f18c18bf?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Lucid Motors](https://warmada.com/companies/lucid-motors?utm_source=github&utm_medium=list&utm_campaign=internships) | Intern, AI &amp; Data (Applied AI/Machine Learning), Summer 2027 | Newark, CA | Nov 19 | [Apply](https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007) · [Find the hiring manager](https://warmada.com/job/lucid-motors-intern-ai-and-data-applied-ai-machine-learning-summer-2027-c5ab8bb3-7760-422d-9805-7d3fd396d2ae?utm_source=github&utm_medium=list&utm_campaign=internships) |
 
-## Quant / Finance (8)
+## Quant / Finance (7)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -54,9 +54,8 @@ A bad listing? Email hello@warmada.com with the link.
 | [Galaxy](https://warmada.com/companies/galaxy?utm_source=github&utm_medium=list&utm_campaign=internships) | 2027 Finance (Internal Audit) Intern - NYC | New York | Nov 19 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6266826004) · [Find the hiring manager](https://warmada.com/job/galaxy-2027-finance-internal-audit-intern-nyc-c3c1cb00-bfe8-44b9-a8ff-5eccf19bdd60?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=internships) | 2027 - Tax Intern, New York City | New York City | Nov 19 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8301842) · [Find the hiring manager](https://warmada.com/job/mongodb-2027-tax-intern-new-york-city-94e9c26e-9b9c-46f8-b4fb-1fd38c5da6cd?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Ensono](https://warmada.com/companies/ensono?utm_source=github&utm_medium=list&utm_campaign=internships) | Global Tax Intern | Remote - United States | Nov 17 | [Apply](https://ensono.com/company/careers/jobs-board/?gh_jid=4753120005) · [Find the hiring manager](https://warmada.com/job/ensono-global-tax-intern-8f128238-21a2-4219-a534-44b5beed536c?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| [Robinhood](https://warmada.com/companies/robinhood?utm_source=github&utm_medium=list&utm_campaign=internships) | Corporate Finance Intern (Summer 2027) | New York, NY | Nov 13 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464) · [Find the hiring manager](https://warmada.com/job/robinhood-corporate-finance-intern-summer-2027-b9d19580-913f-4585-a062-57a46225c431?utm_source=github&utm_medium=list&utm_campaign=internships) |
 
-## Hardware Engineering (14)
+## Hardware Engineering (13)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -73,9 +72,8 @@ A bad listing? Email hello@warmada.com with the link.
 | [DLR Group](https://warmada.com/companies/dlr-group?utm_source=github&utm_medium=list&utm_campaign=internships) | Electrical Engineering Intern \| Summer 2027 | Chicago, Illinois, United States | Nov 18 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5486589008) · [Find the hiring manager](https://warmada.com/job/dlr-group-electrical-engineering-intern-summer-2027-e3e9a311-c88d-4af8-bbe2-72765e675b15?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Galaxy](https://warmada.com/companies/galaxy?utm_source=github&utm_medium=list&utm_campaign=internships) | 2027 Environmental Health &amp; Safety Engineer Intern-Afton Texas | Afton, Texas | Nov 16 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6262681004) · [Find the hiring manager](https://warmada.com/job/galaxy-2027-environmental-health-and-safety-engineer-intern-afton-texas-8dbcbb07-53cb-4063-9955-fc99e55a2130?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Samsara](https://warmada.com/companies/samsara?utm_source=github&utm_medium=list&utm_campaign=internships) | Product Design (Mechanical Engineering) Co-Op | San Francisco - SF9 | Nov 15 | [Apply](https://www.samsara.com/company/careers/roles/8214590?gh_jid=8214590) · [Find the hiring manager](https://warmada.com/job/samsara-product-design-mechanical-engineering-co-op-b8c523fd-f77f-4edc-b072-1f0b930a4ba5?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| [Zoox](https://warmada.com/companies/zoox?utm_source=github&utm_medium=list&utm_campaign=internships) | Feature Integration Intern \[Summer 2027\] | Foster City, CA | Nov 14 | [Apply](https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f) · [Find the hiring manager](https://warmada.com/job/zoox-feature-integration-intern-summer-2027-232e1ab0-a8a1-4d33-97b8-0c5da6319be2?utm_source=github&utm_medium=list&utm_campaign=internships) |
 
-## Other (55)
+## Other (54)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -133,4 +131,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Formlabs](https://warmada.com/companies/formlabs?utm_source=github&utm_medium=list&utm_campaign=internships) | Global Operations MBA Intern (Summer 2027) | Somerville, MA | Nov 16 | [Apply](https://careers.formlabs.com/job/8385550/apply/?gh_jid=8385550) · [Find the hiring manager](https://warmada.com/job/formlabs-global-operations-mba-intern-summer-2027-ebab624d-fe24-4d87-902a-59f40c41312a?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Xometry](https://warmada.com/companies/xometry?utm_source=github&utm_medium=list&utm_campaign=internships) | Sales Intern | North Bethesda, MD | Nov 16 | [Apply](https://job-boards.greenhouse.io/xometry/jobs/5296555007) · [Find the hiring manager](https://warmada.com/job/xometry-sales-intern-d86113f8-a649-47a6-b122-3fb7cce13139?utm_source=github&utm_medium=list&utm_campaign=internships) |
 | [Eight Sleep](https://warmada.com/companies/eight-sleep?utm_source=github&utm_medium=list&utm_campaign=internships) | Field Service Engineer (Contract or Intern) | New York City | Nov 15 | [Apply](https://jobs.ashbyhq.com/eightsleep/aeff9ae3-ce36-49ba-916d-d8f07c75997f) · [Find the hiring manager](https://warmada.com/job/eight-sleep-field-service-engineer-contract-or-intern-22b25f0b-d1ac-47f9-a93d-d6af7764e6ee?utm_source=github&utm_medium=list&utm_campaign=internships) |
-| [Ursa Major](https://warmada.com/companies/ursa-major?utm_source=github&utm_medium=list&utm_campaign=internships) | 2027 Summer Ballistics Analyst Intern | Berthoud, Colorado | Nov 13 | [Apply](https://ursamajor.com/careers/?gh_jid=4754182005) · [Find the hiring manager](https://warmada.com/job/ursa-major-2027-summer-ballistics-analyst-intern-a98bd2f6-4d11-4189-8797-4c822e6d4fa1?utm_source=github&utm_medium=list&utm_campaign=internships) |
